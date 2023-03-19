@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Yiğit ESEN</h1>
 <h3 align="center">Student Computer Engineer</h3>
-<h4 align="center">Backend Web Developer</h3>
+<h4 align="center">Backend Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yigitesen&label=Profile%20views&color=0e75b6&style=flat" alt="yigitesen-click"/>
