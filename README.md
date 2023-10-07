@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Yiğit ESEN</h1>
-<h3 align="center">Student Computer Engineer</h3>
+<h3 align="center">Computer Engineer</h3>
 <h4 align="center">Backend Developer</h3>
 
 <p align="center">
@@ -9,9 +9,7 @@
 </p>
 
 
- - I’m currently working at Jotform as Backend Support Engineer
- - All of my projects are available at [my web site](https://www.yigitesen.gq/work.html)
- - I regularly write articles on [yigitesen.gq](https://www.yigitesen.gq)
+ - I’m currently working at Jotform as Backend Developer
  - How to reach me **yigitesen.tr@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
