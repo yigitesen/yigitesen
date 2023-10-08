@@ -1,6 +1,5 @@
 <h1 align="center">Hi! I'm Yiğit ESEN</h1>
 <h3 align="center">Computer Engineer</h3>
-<h4 align="center">Backend Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yigitesen&label=Profile%20views&color=0e75b6&style=flat" alt="yigitesen-click"/>
@@ -8,9 +7,7 @@
   <img src="https://img.shields.io/github/stars/yigitesen?style=social" alt="yigitesen-stars"/>
 </p>
 
-
  - I’m currently working at Jotform as Backend Developer
- - How to reach me **yigitesen.tr@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
