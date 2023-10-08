@@ -7,8 +7,6 @@
   <img src="https://img.shields.io/github/stars/yigitesen?style=social" alt="yigitesen-stars"/>
 </p>
 
- - I’m currently working @Jotform as backend developer
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <!-- Spring -->  
