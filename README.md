@@ -133,11 +133,4 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 </a>
-
-
  </p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yigitesen&" alt="yigitesen" /></p>
-
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yigitesen&count_private=true&show_icons=true&theme=react"><br></p>
